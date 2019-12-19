@@ -2,6 +2,7 @@
 title: Another kick at the can
 author: Bryn Hughes
 date: "2013-06-01"
+
 categories: [personal]
 tags: [blogging, failure]
 ---
