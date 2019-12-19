@@ -1,3 +1,6 @@
+[frontmatter]
+date = ["date"]
+
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
@@ -24,7 +27,7 @@ theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
-date = ["date"]
+
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
