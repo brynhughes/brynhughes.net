@@ -1,0 +1,29 @@
+---
+title: Teenage Dream, Toddler-Imposed Nightmare
+author: Bryn Hughes
+date: '2017-01-02'
+categories: [music, analysis]
+tags: [analysis, music theory, katy perry, text setting]
+header:
+  caption: ''
+  image: ''
+---
+
+I want to start writing regularly about songs (or parts of songs) that have intrigued me, inspired me, or that have driven me crazy. The first song I'd like to discuss, as you might've guessed, is Katy Perry's "Teenage Dream."
+
+Our daughter Trudy was born in 2013. As academics are wont to do, we thoroughly prepared and researched our impending project (parenthood), only to find out that things were entirely different in the real world. We often found ourselves desparately trying to appease a crying baby by throwing ad-hoc dance parties, bouncing around with Trudy in our arms to distract her from whatever had upset her at the time (Note: This doesn't work as well with her now, as an iron-willed 3-year-old). At the time, we had an Apple TV hooked up to the stereo in the main room of our tiny house in Miami. Perhaps inspired by our locale, we would often queue up the random iTunes HOT DANCE TRAXX 100 playlists available on the Apple TV, which led to our daughter developing a short-term obsession with artists such as Katy Perry, Tiesto, and Martin Garrix. As much as I tried, she never really wanted to jam out to Chick Corea. Trudy referred to Katy Perry simply as "Lady", and for the next two years, we listened to "Lady" pretty much non-stop. Suffice to say, I'm much more familiar with Katy Perry's album *Teenage Dream* than I ever thought I'd be. 
+
+The title track from this album is a jaunty tune about simpler times, when youngsters were free to admire each other for who they were without any makeup on, build forts out of pillows and bedsheets, and then proceed to get blackout drunk and fornicate.[^1]  Cynicism aside, this is an *excellent* pop song. The melody is extremely catchy; more-or-less oscillating around the tonic triad while the band alternates between the subdominant and the dominant triads.[^2] The song was penned by Perry, [collaborating in some capacity](https://en.wikipedia.org/wiki/Teenage_Dream_(Katy_Perry_song)) with Bonnie McKee, Benny Blanco, [eternal pop hitmaker Max Martin](https://en.wikipedia.org/wiki/Max_Martin), and Dr. Luke (who is [coincidentally a massive shitheel](https://en.wikipedia.org/wiki/Kesha_v._Dr._Luke)). The chorus is particularly solid. As [Owen Pallett points out](http://www.slate.com/articles/arts/culturebox/2014/03/katy_perry_s_teenage_dream_explaining_the_hit_using_music_theory.html), its text setting both isolates and syncopates the most important part of the lyrics (syncopated part in bold): "**You make me** feel like I'm living a **teen-age dream**..."
+
+![Chorus](/img/teenagedreamchorus.png)
+
+Pallett also points out the "tension and release" created in the verse by the rhythmic setting of the text. Each line begins with an unsyncopated rhythm and ends with a syncopated one, with the syncopations and elongated durations drawing focus to the end of the line ("make-up on", "punch-line wrong", etc.).  Pallett suggests that this subtle detail of the song is part of its genius, but I would argue that the verses are where the lyrics and text setting are the most clumsy. In the transcription below, I've lined up the first line of the first verse with the first and second lines of the second verse. 
+
+![Verse](/img/teenagedream.png)
+
+The words in bold are emphasized musically by way of metrical or agogic accent (with further attention drawn due to the syncopation). If you listen to the second verse, you might find it incredibly difficult to understand what Katy is singing. I have heard this song hundreds of times, and still didn't know the words to the second verse until I looked them up while writing this blog post. This is because the prosaic and musical stresses are in conflict. If you were to speak the second verse, you'd naturally emphasize the words that offered the most context: "drove," "Cali," "drunk," "beach." Conversely, you probably wouldn't stress words such as "and," "on," "the," "a," "out," or "of." So what's happened here is all of the words that shouldn't be stressed in prose have been musically emphasized, making the lyrics very difficult to detect. In fact, David Huron [has done a study](http://emusicology.org/article/view/3729/3619) that shows that lyrics are much more difficult to understand when musical and prosaic stresses are mismatched. 
+
+I suspect that the sloppy text setting in the second verse of this song might have something to do with the fact that it was written collaboratively. It's possible that whoever wrote the melody didn't write the lyrics, and simply tried to plug them in without changing the music they'd already written. Given that it's a throwaway second verse of a pop song, it's also possible that the songwriting team didn't think this was an important enough detail to worry about. Better to have the rhythms and melodies match between verses than to alter the phrasing to suit the text. Nevertheless, this verse has always bugged me, and I think I'll use it as an example the next time I'm discussing text setting or memorability in class. 
+
+[^1]: Needless to say, I somewhat regret the fact that my kid now mindlessly sings along with all of these songs.
+[^2]: [Owen Pallett wrote about this for Slate](http://www.slate.com/articles/arts/culturebox/2014/03/katy_perry_s_teenage_dream_explaining_the_hit_using_music_theory.html), and Drew Nobile gave a talk at SMT about this sort of thing a few years ago. When a melody essentially never leaves the tonic triad, you can harmonize it with almost anything, leaving the song rife with potential for hilarious mashups. See Neil Cicierega's [*Mouth Sounds*](http://www.neilcic.com/mouthsounds/), which runs the gamut of possible combinations with Smashmouth's "All Star", another tonic-triad-oriented melody. 

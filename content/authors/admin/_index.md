@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Bryn Hughes
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Music
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The University of Lethbridge
+  url: "https://www.uleth.ca/fine-arts/profile/dr-bryn-hughes"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include music perception and cognition, popular music, and pedagogy.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Music Perception and Cognition
+- Popular Music
+- Pedagogy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Music Theory
+    institution: Florida State University
+    year: 2011
+  - course: MA in Music Theory
+    institution: The University of Western Ontario
+    year: 2005
+  - course: BMus in Music Theory and Composition 
+    institution: The University of Western Ontario
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:bryn@brynhughes.net"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/brynmdhughes
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brynhughes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Bryn Hughes, and I teach music theory at the [University of Lethbridge](http://www.uleth.ca/finearts/music).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include music cognition, music theory pedagogy, and popular music analysis. My dissertation involved an investigation of harmonic expectation in twelve-bar blues progressions. For more information, please feel free to peruse my [CV.](https://drive.google.com/file/d/0B3uk2-8ZOE34MUVCTXN3NkZ0eVE/view?usp=sharing)
+
+I once aspired to be a jazz trumpeter. Right now I mostly play bad piano reductions for my students. I enjoy playing hockey. I root for the Toronto teams, which means I'm disappointed with professional sports most of the time. I have a beautiful wife Jillian, a daughter Trudy, and a son James.
