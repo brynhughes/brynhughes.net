@@ -1,0 +1,48 @@
+---
+name: Bryn
+surname: Hughes
+position: "Assistant Professor"
+address: "Department of Music, The University of Lethbridge"
+phone: 403-332-4479
+www: brynhughes.net
+email: "bryn@brynhughes.net"
+twitter: brynmdhughes
+github: brynhughes
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: 414141
+output: vitae::hyndman
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Bachelor of Music, Music Theory and Composition", "2003", "The University of Western Ontario", "London, ON, Canada",
+  "Master of Arts, Music Theory", "2005", "The University of Western Ontario", "London, ON, Canada",
+  "Ph.D, Music Theory", "2011", "Florida State University", "Tallahassee, FL, USA"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Publications
+
+```{r}
+scholar::get_publications("EmD_lTEAAAAJ&EmD_lTEAAAAJ&") %>% 
+  filter(cites > 30) %>% 
+  distinct(title, .keep_all = TRUE) %>%
+  transmute(bibtype = "Article", author = as.character(author),
+            title = as.character(title),
+            journaltitle = as.character(journal), year, key = row_number()) %>% 
+  RefManageR::as.BibEntry() %>% 
+  RefManageR::WriteBib("curie.bib")
+
+bibliography_entries("curie.bib")
+```
+
