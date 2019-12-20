@@ -90,14 +90,14 @@ phone = "403-332-4479"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "W768, The University of Lethbridge, 4401 University Dr W", city = "Lethbridge", region = "AB", postcode = "T1K 3M4", country = "Canada", country_code = "CA"}
+address = {street = "4401 University Dr W", city = "Lethbridge", region = "AB", postcode = "T1K 3M4", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-# directions = ""
+directions = "The University of Lethbridge, W768"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
