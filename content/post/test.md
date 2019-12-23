@@ -1,6 +1,6 @@
 +++
-authors = []
-date = ""
+authors = [""]
+date = 2019-12-23T18:20:00Z
 draft = true
 featured = false
 projects = []
@@ -14,3 +14,4 @@ focal_point = ""
 placement = nil
 
 +++
+This is a test 
