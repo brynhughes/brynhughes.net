@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Music
+role: Associate Professor of Music
 
 # Organizations/Affiliations
 organizations:
